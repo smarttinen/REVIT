@@ -1,0 +1,99 @@
+<?xml version="1.0" standalone="yes"?>
+<UserSettings2DS xmlns="http://tempuri.org/UserSettings2DS.xsd">
+  <SettingsInfo>
+    <Time>2018-06-27T17:29:11.4977489-05:00</Time>
+    <SchemaVersion>2</SchemaVersion>
+    <OSCultureLocaleID>1033</OSCultureLocaleID>
+    <OSCultureEnglishName>English (United States)</OSCultureEnglishName>
+    <RevitLanguageID>0</RevitLanguageID>
+    <RevitLanguageName>English_USA</RevitLanguageName>
+    <RevitVersion>2016</RevitVersion>
+    <RevitBuild>20170117_1200(x64)</RevitBuild>
+  </SettingsInfo>
+  <Category>
+    <ElementID>-2000280</ElementID>
+    <IsTypesOnly>false</IsTypesOnly>
+    <Name>Title Blocks</Name>
+    <IsSchedule>false</IsSchedule>
+    <IsKeySchedule>false</IsKeySchedule>
+    <HideUnitSymbol>false</HideUnitSymbol>
+  </Category>
+  <Parameter>
+    <Name>Drawn By</Name>
+    <IsInstance>true</IsInstance>
+    <CategoryElementID>-2000280</CategoryElementID>
+    <IsTypesOnlyCategory>false</IsTypesOnlyCategory>
+    <IsCalculated>false</IsCalculated>
+  </Parameter>
+  <Parameter>
+    <Name>Checked By</Name>
+    <IsInstance>true</IsInstance>
+    <CategoryElementID>-2000280</CategoryElementID>
+    <IsTypesOnlyCategory>false</IsTypesOnlyCategory>
+    <IsCalculated>false</IsCalculated>
+  </Parameter>
+  <Parameter>
+    <Name>Type Name</Name>
+    <IsInstance>false</IsInstance>
+    <CategoryElementID>-2000280</CategoryElementID>
+    <IsTypesOnlyCategory>false</IsTypesOnlyCategory>
+    <IsCalculated>false</IsCalculated>
+  </Parameter>
+  <Parameter>
+    <Name>Sheet Name</Name>
+    <IsInstance>true</IsInstance>
+    <CategoryElementID>-2000280</CategoryElementID>
+    <IsTypesOnlyCategory>false</IsTypesOnlyCategory>
+    <IsCalculated>false</IsCalculated>
+  </Parameter>
+  <Parameter>
+    <Name>Sheet Number</Name>
+    <IsInstance>true</IsInstance>
+    <CategoryElementID>-2000280</CategoryElementID>
+    <IsTypesOnlyCategory>false</IsTypesOnlyCategory>
+    <IsCalculated>false</IsCalculated>
+  </Parameter>
+  <Parameter>
+    <Name>NOT FOR CONSTRUCTION</Name>
+    <IsInstance>false</IsInstance>
+    <CategoryElementID>-2000280</CategoryElementID>
+    <IsTypesOnlyCategory>false</IsTypesOnlyCategory>
+    <IsCalculated>false</IsCalculated>
+  </Parameter>
+  <Parameter>
+    <Name>Sheet Issue Date</Name>
+    <IsInstance>true</IsInstance>
+    <CategoryElementID>-2000280</CategoryElementID>
+    <IsTypesOnlyCategory>false</IsTypesOnlyCategory>
+    <IsCalculated>false</IsCalculated>
+  </Parameter>
+  <Parameter>
+    <Name>Elec Signer Info</Name>
+    <IsInstance>false</IsInstance>
+    <CategoryElementID>-2000280</CategoryElementID>
+    <IsTypesOnlyCategory>false</IsTypesOnlyCategory>
+    <IsCalculated>false</IsCalculated>
+  </Parameter>
+  <Parameter>
+    <Name>Mech Signer Info</Name>
+    <IsInstance>false</IsInstance>
+    <CategoryElementID>-2000280</CategoryElementID>
+    <IsTypesOnlyCategory>false</IsTypesOnlyCategory>
+    <IsCalculated>false</IsCalculated>
+  </Parameter>
+  <Parameter>
+    <Name>Preliminary Stamp</Name>
+    <IsInstance>false</IsInstance>
+    <CategoryElementID>-2000280</CategoryElementID>
+    <IsTypesOnlyCategory>false</IsTypesOnlyCategory>
+    <IsCalculated>false</IsCalculated>
+  </Parameter>
+  <ParameterSorting>
+    <ParameterName>Sheet Number</ParameterName>
+    <IsInstanceParameter>true</IsInstanceParameter>
+    <CategoryElementID>-2000280</CategoryElementID>
+    <IsTypesOnlyCategory>false</IsTypesOnlyCategory>
+    <SortOrder>1</SortOrder>
+    <IsAscending>true</IsAscending>
+  </ParameterSorting>
+</UserSettings2DS>
